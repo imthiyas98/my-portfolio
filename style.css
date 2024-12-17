@@ -1,0 +1,28 @@
+* {
+    margin: 1;
+    padding: 1;
+    box-sizing: content-box;
+
+}
+body {
+    font: 1em sans-serif;
+    list-style: armenian;
+    background-color: burlywood;
+    
+}
+header {
+    background-color: aqua;
+
+}
+nav.container{
+    display: flexbox;
+
+}
+.connect button {
+    padding: 0.75rem;
+    background-color: #0056b3;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }    
